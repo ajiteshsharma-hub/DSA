@@ -18,10 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/ajiteshsharma-hub/DSA/tree/master/0056-merge-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ajiteshsharma-hub/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ajiteshsharma-hub/DSA/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
