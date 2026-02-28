@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/ajiteshsharma-hub/DSA/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ajiteshsharma-hub/DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ajiteshsharma-hub/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ajiteshsharma-hub/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
