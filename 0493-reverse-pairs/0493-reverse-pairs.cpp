@@ -37,7 +37,7 @@ public:
     }
     long long int mergeSort(vector<int>& nums, int low, int high){
         long long cnt = 0;
-        if(low >= high) return 0;
+        if(low >= high) return cnt;
         int mid = (low+high)/2;
         cnt+= mergeSort(nums, low, mid);
         cnt+= mergeSort(nums, mid+1, high);
