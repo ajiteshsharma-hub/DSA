@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ajiteshsharma-hub/DSA/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ajiteshsharma-hub/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshsharma-hub/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ajiteshsharma-hub/DSA/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/ajiteshsharma-hub/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/ajiteshsharma-hub/DSA/tree/master/0704-binary-search) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ajiteshsharma-hub/DSA/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/ajiteshsharma-hub/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ajiteshsharma-hub/DSA/tree/master/0152-maximum-product-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
