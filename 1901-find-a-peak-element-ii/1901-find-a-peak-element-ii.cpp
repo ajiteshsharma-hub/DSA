@@ -24,15 +24,11 @@ public:
             if(mid - 1 >= 0){
                 left = mat[row][mid-1];
             }
-            else{
-                left = INT_MIN;
-            }
+
             if(mid + 1 < m){
                 right = mat[row][mid+1];
             }
-            else{
-                right = INT_MIN;
-            }
+
             if(mat[row][mid] > left && mat[row][mid] > right){
                 return{row,mid};
             }
