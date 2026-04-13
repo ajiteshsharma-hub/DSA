@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajiteshsharma-hub/DSA/tree/master/0013-roman-to-integer) |
+| [1021-remove-outermost-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ajiteshsharma-hub/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
