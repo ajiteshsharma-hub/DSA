@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ajiteshsharma-hub/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/ajiteshsharma-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ajiteshsharma-hub/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ajiteshsharma-hub/DSA/tree/master/0704-binary-search) |
