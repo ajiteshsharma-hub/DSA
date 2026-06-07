@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ajiteshsharma-hub/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ajiteshsharma-hub/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ajiteshsharma-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ajiteshsharma-hub/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ajiteshsharma-hub/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ajiteshsharma-hub/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajiteshsharma-hub/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ajiteshsharma-hub/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
