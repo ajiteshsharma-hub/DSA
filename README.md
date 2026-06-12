@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ajiteshsharma-hub/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ajiteshsharma-hub/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ajiteshsharma-hub/DSA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ajiteshsharma-hub/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ajiteshsharma-hub/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ajiteshsharma-hub/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ajiteshsharma-hub/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ajiteshsharma-hub/DSA/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -244,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/ajiteshsharma-hub/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
