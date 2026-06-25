@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshsharma-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
+| [0930-binary-subarrays-with-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ajiteshsharma-hub/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ajiteshsharma-hub/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ajiteshsharma-hub/DSA/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajiteshsharma-hub/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajiteshsharma-hub/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajiteshsharma-hub/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajiteshsharma-hub/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -288,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajiteshsharma-hub/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshsharma-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajiteshsharma-hub/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
