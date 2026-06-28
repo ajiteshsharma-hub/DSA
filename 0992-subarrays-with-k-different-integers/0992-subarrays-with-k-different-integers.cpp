@@ -2,7 +2,7 @@ class Solution {
 public:
     int function(vector<int>& nums, int k){
         if(k < 0) return 0;
-       map<int, int> mpp;
+       unordered_map<int, int> mpp;
         int left = 0, right = 0;
         int count = 0;
         while(right < nums.size()){
