@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajiteshsharma-hub/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ajiteshsharma-hub/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajiteshsharma-hub/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ajiteshsharma-hub/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
