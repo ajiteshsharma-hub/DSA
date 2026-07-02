@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ajiteshsharma-hub/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ajiteshsharma-hub/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshsharma-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ajiteshsharma-hub/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ajiteshsharma-hub/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshsharma-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ajiteshsharma-hub/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ajiteshsharma-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ajiteshsharma-hub/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/ajiteshsharma-hub/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ajiteshsharma-hub/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Database
