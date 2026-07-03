@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ajiteshsharma-hub/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshsharma-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/ajiteshsharma-hub/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ajiteshsharma-hub/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
