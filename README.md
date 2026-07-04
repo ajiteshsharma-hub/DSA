@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajiteshsharma-hub/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/ajiteshsharma-hub/DSA/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
