@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ajiteshsharma-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ajiteshsharma-hub/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/ajiteshsharma-hub/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/ajiteshsharma-hub/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/1929-concatenation-of-array) |
 ## Backtracking
 |  |
