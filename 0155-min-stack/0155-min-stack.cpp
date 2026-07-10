@@ -21,6 +21,7 @@ public:
     }
     
     void pop() {
+        if(st.empty()) return;
         long long n = st.top();
         st.pop();
         if(st.empty()){
