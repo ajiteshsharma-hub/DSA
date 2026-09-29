@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/ajiteshsharma-hub/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ajiteshsharma-hub/DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/ajiteshsharma-hub/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/ajiteshsharma-hub/DSA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajiteshsharma-hub/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ajiteshsharma-hub/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ajiteshsharma-hub/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ajiteshsharma-hub/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/ajiteshsharma-hub/DSA/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/ajiteshsharma-hub/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ajiteshsharma-hub/DSA/tree/master/1929-concatenation-of-array) |
 ## Backtracking
