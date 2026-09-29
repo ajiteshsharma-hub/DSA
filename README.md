@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ajiteshsharma-hub/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajiteshsharma-hub/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ajiteshsharma-hub/DSA/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajiteshsharma-hub/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/ajiteshsharma-hub/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/0796-rotate-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajiteshsharma-hub/DSA/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ajiteshsharma-hub/DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/ajiteshsharma-hub/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ajiteshsharma-hub/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ajiteshsharma-hub/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ajiteshsharma-hub/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ajiteshsharma-hub/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/ajiteshsharma-hub/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -361,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajiteshsharma-hub/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ajiteshsharma-hub/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ajiteshsharma-hub/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
